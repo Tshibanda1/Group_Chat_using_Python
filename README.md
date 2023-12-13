@@ -25,7 +25,7 @@ SERVER NOTIFIED WHEN 2ND MEMBER JOINS:
 SIMPLE INTERACTION BETWEEN THE TWO MEMBERS:
 ![summary of chat fin](https://github.com/Tshibanda1/Group_Chat_using_Python/assets/118852771/632b8a0d-9ff1-44d2-84ff-0638fd80f5c1)
 
-MEMBER NOTIFIED WHEN ANOTHER MEMBER LEAVES:
+MEMBER NOTIFIED WHEN ANOTHER MEMBER LEAVES: -------------------------------------------------------------
 ![sign when client leaves](https://github.com/Tshibanda1/Group_Chat_using_Python/assets/118852771/71e1c2ca-a8d1-45dc-854b-c3db1cca2e59)
 
 SERVER KEEPING UP WITH CHAT SUMMARY AND NOTIFIED WHEN SOMEONE LEAVES: 
