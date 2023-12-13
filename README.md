@@ -30,3 +30,6 @@ MEMBER NOTIFIED WHEN ANOTHER MEMBER LEAVES: ------------------------------------
 
 SERVER KEEPING UP WITH CHAT SUMMARY AND NOTIFIED WHEN SOMEONE LEAVES: 
 ![server summary](https://github.com/Tshibanda1/Group_Chat_using_Python/assets/118852771/f9f1224a-13fd-4561-b7e6-331ae79c77fa)
+
+
+THANK YOU FOR PASSING BY!
