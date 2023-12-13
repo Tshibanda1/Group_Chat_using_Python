@@ -10,7 +10,7 @@ SCREENSHOTS SHOWN BELOW: (I implemented a basic GUI), interaction between two me
 SERVER RUNNING:
 ![server running](https://github.com/Tshibanda1/Group_Chat_using_Python/assets/118852771/c91017c5-4c78-4e68-a20c-c5db858bc455)
 
-FIRST CLIENT JOINING ENTERING USERNAME (RUNNNING CLIENT FILE): -------------------------------------------------------------------------------------------------------------------
+FIRST CLIENT JOINING ENTERING USERNAME (RUNNNING CLIENT FILE): -------------------------------------------------------------
 ![user enter username](https://github.com/Tshibanda1/Group_Chat_using_Python/assets/118852771/5ae8891a-a7ff-4e67-8fbb-8757d644f276)
 
 SERVER CONSOLE OUTPUT WHEN FIRST GROUP MEMBER JOINS:
