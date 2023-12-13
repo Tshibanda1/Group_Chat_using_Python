@@ -1,11 +1,12 @@
 This is a group chat using socket programming and python.This was a very interesting project to work on I really enjoyed it! Hope you enjoy using it! *
 
-To use note the following:
+To use note the following:  
 *
-*In order for group chat to work members must be connected to the same WIFI
-*If you want to make it work over WAN you can change the IP address in the server to use the public IP address
-*There are 2 python files (Server and client)
-*Run the server file first (This will act as the host) *Then run the client file(can be run on a seperate computer) to run on same computer multiple times you can use the cmd *While entering chat provide a username and you are good to go! *The server is responsible for managing communication
+*In order for group chat to work members must be connected to the same WIFI.  
+*If you want to make it work over WAN you can change the IP address in the server to use the public IP address.  
+*There are 2 python files (Server and client).  
+*Run the server file first (This will act as the host) *Then run the client file(can be run on a seperate computer) to run on same computer multiple times you can use the cmd.  
+*While entering chat provide a username and you are good to go! *The server is responsible for managing communication.
 *
 SCREENSHOTS SHOWN BELOW: (I implemented a basic GUI), interaction between two members only, can be extended to use much as you like:
 
