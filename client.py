@@ -45,6 +45,7 @@ class Client:
         self.text_area.pack(padx=20, pady=5)
         self.text_area.config(state="disabled")
 
+
         # Message label
         self.msg_label = tkinter.Label(self.win, text="Message:", bg="Lightgray")
         self.msg_label.config(font=("Arial", 12))
